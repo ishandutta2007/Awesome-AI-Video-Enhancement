@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="isiscord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Video-Enhancement/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Video-Enhancement?style=flat-square&color=ffd700&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Video-Enhancement/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Video-Enhancement?style=flat-square&color=ffd700&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Video-Enhancement/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Video-Enhancement?style=flat-square&color=blue&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Video-Enhancement/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-purple.svg?style=flat-square" alt="License"/></a>
@@ -80,103 +80,103 @@ Entries below are **strictly ranked in descending order by GitHub stargazers cou
 
 ---
 
-### 1. [Upscayl](https://github.com/upscayl/upscayl) [![GitHub stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social&color=white)](https://github.com/upscayl/upscayl/stargazers)
+### 1. [Upscayl](https://github.com/upscayl/upscayl) [![GitHub_Stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social&color=white)](https://github.com/upscayl/upscayl/stargazers)
 - **License**: `AGPL-3.0` | **Focus**: Cross-Platform AI Desktop Upscaling Framework
 - **Overview**: The most popular open-source AI upscaler on GitHub. Built with Electron and ncnn-Vulkan, Upscayl delivers a zero-configuration GUI that runs on Linux, macOS, and Windows with Vulkan-compatible hardware (AMD, Intel, NVIDIA). While initially targeted at image enhancement, its batch pipelines and CLI backend allow efficient frame-by-frame video processing with Real-ESRGAN, Remacri, and custom models.
 
-### 2. [GFPGAN](https://github.com/TencentARC/GFPGAN) [![GitHub stars](https://img.shields.io/github/stars/TencentARC/GFPGAN?style=social&color=white)](https://github.com/TencentARC/GFPGAN/stargazers)
+### 2. [GFPGAN](https://github.com/TencentARC/GFPGAN) [![GitHub_Stars](https://img.shields.io/github/stars/TencentARC/GFPGAN?style=social&color=white)](https://github.com/TencentARC/GFPGAN/stargazers)
 - **License**: `Apache-2.0` | **Focus**: Real-World Blind Face Restoration
 - **Overview**: Developed by Tencent ARC, GFPGAN leverages rich facial component priors encapsulated within a pre-trained StyleGAN architecture to restore degraded and compressed facial details in video frames. It preserves eye gaze, skin texture, and mouth identity, making it the standard post-processing pass for archival and documentary video upscaling.
 
-### 3. [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) [![GitHub stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=social&color=white)](https://github.com/xinntao/Real-ESRGAN/stargazers)
+### 3. [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) [![GitHub_Stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=social&color=white)](https://github.com/xinntao/Real-ESRGAN/stargazers)
 - **License**: `BSD-3-Clause` | **Focus**: Practical Blind Super-Resolution Algorithms
 - **Overview**: A landmark project in super-resolution that trains compact neural networks using high-order degradation modeling to tackle real-world blur, noise, and compression artifacts. Features the video-specific **AnimeVideo-v3** and **RealESRGAN_x4plus** models with standalone ncnn-Vulkan binaries for high-throughput GPU rendering.
 
-### 4. [waifu2x](https://github.com/nagadomi/waifu2x) [![GitHub stars](https://img.shields.io/github/stars/nagadomi/waifu2x?style=social&color=white)](https://github.com/nagadomi/waifu2x/stargazers)
+### 4. [waifu2x](https://github.com/nagadomi/waifu2x) [![GitHub_Stars](https://img.shields.io/github/stars/nagadomi/waifu2x?style=social&color=white)](https://github.com/nagadomi/waifu2x/stargazers)
 - **License**: `MIT` | **Focus**: Anime-Style Art & Video Upscaling via Deep Convolutional Networks
 - **Overview**: The pioneering deep learning project that popularized super-resolution in the creative community. Utilizes deep convolutional neural networks (SRCNN/VGG-style architectures) specifically optimized for line art, flat color fields, and noise elimination in 2D animation.
 
-### 5. [Video2X](https://github.com/k4yt3x/video2x) [![GitHub stars](https://img.shields.io/github/stars/k4yt3x/video2x?style=social&color=white)](https://github.com/k4yt3x/video2x/stargazers)
+### 5. [Video2X](https://github.com/k4yt3x/video2x) [![GitHub_Stars](https://img.shields.io/github/stars/k4yt3x/video2x?style=social&color=white)](https://github.com/k4yt3x/video2x/stargazers)
 - **License**: `AGPL-3.0` | **Focus**: Automated Video Super-Resolution & Interpolation Orchestrator
 - **Overview**: A full-featured pipeline orchestration tool for machine-learning video super-resolution and frame interpolation. Automates the full flow: stream extraction via FFmpeg → parallel frame upscaling (Real-ESRGAN, Real-CUGAN, Anime4K) → frame interpolation (RIFE) → audio/subtitle remuxing. Offers a modern Qt6 GUI and robust CLI.
 
-### 6. [Anime4K](https://github.com/bloc97/Anime4K) [![GitHub stars](https://img.shields.io/github/stars/bloc97/Anime4K?style=social&color=white)](https://github.com/bloc97/Anime4K/stargazers)
+### 6. [Anime4K](https://github.com/bloc97/Anime4K) [![GitHub_Stars](https://img.shields.io/github/stars/bloc97/Anime4K?style=social&color=white)](https://github.com/bloc97/Anime4K/stargazers)
 - **License**: `MIT` | **Focus**: Real-Time Shader-Based Anime Upscaling & Deblurring
 - **Overview**: Ultra-high-speed set of open-source GLSL video shaders designed for real-time video playback inside media players like MPV, VLC, and MPC-HC. Can upscale 1080p anime to crisp 4K at 60+ FPS on modest hardware with virtually zero latency.
 
-### 7. [CodeFormer](https://github.com/sczhou/CodeFormer) [![GitHub stars](https://img.shields.io/github/stars/sczhou/CodeFormer?style=social&color=white)](https://github.com/sczhou/CodeFormer/stargazers)
+### 7. [CodeFormer](https://github.com/sczhou/CodeFormer) [![GitHub_Stars](https://img.shields.io/github/stars/sczhou/CodeFormer?style=social&color=white)](https://github.com/sczhou/CodeFormer/stargazers)
 - **License**: `S-Lab License` | **Focus**: Robust Blind Face Restoration with Codebook Lookup Transformer
 - **Overview**: Developed by S-Lab at NTU, CodeFormer formulates facial restoration as a discrete code prediction task. By learning codebook lookup priors inside a Transformer, it delivers superior facial fidelity and natural textures even under extreme degradation without over-smoothing.
 
-### 8. [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) [![GitHub stars](https://img.shields.io/github/stars/AaronFeng753/Waifu2x-Extension-GUI?style=social&color=white)](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/stargazers)
+### 8. [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) [![GitHub_Stars](https://img.shields.io/github/stars/AaronFeng753/Waifu2x-Extension-GUI?style=social&color=white)](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/stargazers)
 - **License**: `GPL-3.0` | **Focus**: Multithreaded Desktop Video & Image Super-Resolution
 - **Overview**: An extensive Windows desktop application integrating multiple backends (Waifu2x, Real-ESRGAN, Real-CUGAN, SRMD, Anime4K) with full hardware acceleration. Features automated batch processing, multi-GPU load balancing, and audio-video synchronization.
 
-### 9. [BasicSR](https://github.com/XPixelGroup/BasicSR) [![GitHub stars](https://img.shields.io/github/stars/XPixelGroup/BasicSR?style=social&color=white)](https://github.com/XPixelGroup/BasicSR/stargazers)
+### 9. [BasicSR](https://github.com/XPixelGroup/BasicSR) [![GitHub_Stars](https://img.shields.io/github/stars/XPixelGroup/BasicSR?style=social&color=white)](https://github.com/XPixelGroup/BasicSR/stargazers)
 - **License**: `Apache-2.0` | **Focus**: Open-Source Image & Video Restoration Research Toolbox
 - **Overview**: The fundamental research toolbox underpinning many modern video super-resolution architectures. Houses implementations of EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, BasicVSR++, SwinIR, and DFDNet with modular PyTorch training and evaluation suites.
 
-### 10. [MMagic (MMEditing)](https://github.com/open-mmlab/mmagic) [![GitHub stars](https://img.shields.io/github/stars/open-mmlab/mmagic?style=social&color=white)](https://github.com/open-mmlab/mmagic/stargazers)
+### 10. [MMagic (MMEditing)](https://github.com/open-mmlab/mmagic) [![GitHub_Stars](https://img.shields.io/github/stars/open-mmlab/mmagic?style=social&color=white)](https://github.com/open-mmlab/mmagic/stargazers)
 - **License**: `Apache-2.0` | **Focus**: OpenMMLab Multimodal Advanced Generative & Editing Toolkit
 - **Overview**: Comprehensive deep learning toolkit from OpenMMLab covering video super-resolution, video frame interpolation, video inpainting, and video matting. Implements research backends including BasicVSR, TOFlow, EDVR, and CAIN under a unified, production-grade PyTorch configuration system.
 
-### 11. [ESRGAN](https://github.com/xinntao/ESRGAN) [![GitHub stars](https://img.shields.io/github/stars/xinntao/ESRGAN?style=social&color=white)](https://github.com/xinntao/ESRGAN/stargazers)
+### 11. [ESRGAN](https://github.com/xinntao/ESRGAN) [![GitHub_Stars](https://img.shields.io/github/stars/xinntao/ESRGAN?style=social&color=white)](https://github.com/xinntao/ESRGAN/stargazers)
 - **License**: `Apache-2.0` | **Focus**: Enhanced Super-Resolution Generative Adversarial Networks
 - **Overview**: The landmark ECCV 2018 paper that established Residual-in-Residual Dense Blocks (RRDB) and relativistic GAN loss for photo-realistic super-resolution. Serves as the fundamental backbone for hundreds of community fine-tuned video models.
 
-### 12. [Real-CUGAN (Bilibili AILab)](https://github.com/bilibili/ailab) [![GitHub stars](https://img.shields.io/github/stars/bilibili/ailab?style=social&color=white)](https://github.com/bilibili/ailab/stargazers)
+### 12. [Real-CUGAN (Bilibili AILab)](https://github.com/bilibili/ailab) [![GitHub_Stars](https://img.shields.io/github/stars/bilibili/ailab?style=social&color=white)](https://github.com/bilibili/ailab/stargazers)
 - **License**: `MIT` | **Focus**: AI Anime Super-Resolution with Artifact Reduction
 - **Overview**: Bilibili's production-grade anime super-resolution model trained on massive animation datasets. Excels at removing blocky video compression artifacts while maintaining razor-sharp linework across 2x, 3x, and 4x scale factors.
 
-### 13. [RIFE (ECCV2022-RIFE)](https://github.com/hzwer/ECCV2022-RIFE) [![GitHub stars](https://img.shields.io/github/stars/hzwer/ECCV2022-RIFE?style=social&color=white)](https://github.com/hzwer/ECCV2022-RIFE/stargazers)
+### 13. [RIFE (ECCV2022-RIFE)](https://github.com/hzwer/ECCV2022-RIFE) [![GitHub_Stars](https://img.shields.io/github/stars/hzwer/ECCV2022-RIFE?style=social&color=white)](https://github.com/hzwer/ECCV2022-RIFE/stargazers)
 - **License**: `MIT` | **Focus**: Real-Time Intermediate Flow Estimation for Video Frame Interpolation
 - **Overview**: The gold standard for open-source AI video frame interpolation (VFI). Uses IFNet to estimate intermediate motion flow fields directly, generating fluid slow-motion and 24fps-to-60fps/120fps video upsampling in real time.
 
-### 14. [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) [![GitHub stars](https://img.shields.io/github/stars/nihui/waifu2x-ncnn-vulkan?style=social&color=white)](https://github.com/nihui/waifu2x-ncnn-vulkan/stargazers)
+### 14. [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) [![GitHub_Stars](https://img.shields.io/github/stars/nihui/waifu2x-ncnn-vulkan?style=social&color=white)](https://github.com/nihui/waifu2x-ncnn-vulkan/stargazers)
 - **License**: `MIT` | **Focus**: Portable High-Performance Vulkan Implementation
 - **Overview**: Standalone C++ binary utilizing Tencent's ncnn neural network framework and Vulkan compute shaders. Requires zero Python dependencies or CUDA installation, enabling fast frame processing across Intel, AMD, and NVIDIA hardware.
 
-### 15. [VRT (Video Restoration Transformer)](https://github.com/JingyunLiang/VRT) [![GitHub stars](https://img.shields.io/github/stars/JingyunLiang/VRT?style=social&color=white)](https://github.com/JingyunLiang/VRT/stargazers)
+### 15. [VRT (Video Restoration Transformer)](https://github.com/JingyunLiang/VRT) [![GitHub_Stars](https://img.shields.io/github/stars/JingyunLiang/VRT?style=social&color=white)](https://github.com/JingyunLiang/VRT/stargazers)
 - **License**: `Apache-2.0` | **Focus**: Video Super-Resolution, Deblurring, and Denoising Transformer
 - **Overview**: Groundbreaking architecture combining parallel frame feature extraction and mutual self-attention across multiple temporal frames. Solves long-range temporal consistency challenges in video restoration.
 
-### 16. [SeedVR & SeedVR2](https://github.com/ByteDance-Seed/SeedVR) [![GitHub stars](https://img.shields.io/github/stars/ByteDance-Seed/SeedVR?style=social&color=white)](https://github.com/ByteDance-Seed/SeedVR/stargazers)
+### 16. [SeedVR & SeedVR2](https://github.com/ByteDance-Seed/SeedVR) [![GitHub_Stars](https://img.shields.io/github/stars/ByteDance-Seed/SeedVR?style=social&color=white)](https://github.com/ByteDance-Seed/SeedVR/stargazers)
 - **License**: `Apache-2.0` | **Focus**: One-Step Diffusion Transformer Video Restoration
 - **Overview**: ByteDance Seed's breakthrough diffusion transformer framework (accepted at ICLR). Restores degraded video and achieves temporal consistency in a single inference step via adaptive window attention and adversarial post-training.
 
-### 17. [rife-ncnn-vulkan](https://github.com/nihui/rife-ncnn-vulkan) [![GitHub stars](https://img.shields.io/github/stars/nihui/rife-ncnn-vulkan?style=social&color=white)](https://github.com/nihui/rife-ncnn-vulkan/stargazers)
+### 17. [rife-ncnn-vulkan](https://github.com/nihui/rife-ncnn-vulkan) [![GitHub_Stars](https://img.shields.io/github/stars/nihui/rife-ncnn-vulkan?style=social&color=white)](https://github.com/nihui/rife-ncnn-vulkan/stargazers)
 - **License**: `MIT` | **Focus**: Cross-Platform Vulkan Port of RIFE Frame Interpolation
 - **Overview**: High-speed, self-contained binary port of RIFE for frame rate multiplication (30fps → 60fps/120fps). Integrates easily into FFmpeg filterchains and video editing scripts without requiring a full Python runtime.
 
-### 18. [BasicVSR++](https://github.com/ckkelvinchan/BasicVSR_PlusPlus) [![GitHub stars](https://img.shields.io/github/stars/ckkelvinchan/BasicVSR_PlusPlus?style=social&color=white)](https://github.com/ckkelvinchan/BasicVSR_PlusPlus/stargazers)
+### 18. [BasicVSR++](https://github.com/ckkelvinchan/BasicVSR_PlusPlus) [![GitHub_Stars](https://img.shields.io/github/stars/ckkelvinchan/BasicVSR_PlusPlus?style=social&color=white)](https://github.com/ckkelvinchan/BasicVSR_PlusPlus/stargazers)
 - **License**: `Apache-2.0` | **Focus**: Video Super-Resolution with Second-Order Grid Propagation
 - **Overview**: Award-winning recurrent framework (NTIRE winner) featuring second-order grid propagation and flow-guided deformable alignments, effectively sharing optical information across wide temporal windows.
 
-### 19. [Free AI Video Upscaler](https://github.com/sb2702/free-ai-video-upscaler) [![GitHub stars](https://img.shields.io/github/stars/sb2702/free-ai-video-upscaler?style=social&color=white)](https://github.com/sb2702/free-ai-video-upscaler/stargazers)
+### 19. [Free AI Video Upscaler](https://github.com/sb2702/free-ai-video-upscaler) [![GitHub_Stars](https://img.shields.io/github/stars/sb2702/free-ai-video-upscaler?style=social&color=white)](https://github.com/sb2702/free-ai-video-upscaler/stargazers)
 - **License**: `MIT` | **Focus**: Zero-Server In-Browser Upscaling via WebGPU & WebCodecs
 - **Overview**: Client-side web application executing CNN super-resolution models directly inside the user's browser via WebGPU compute shaders and WebSR. Processes 250k+ monthly active users with zero server bandwidth costs and total data privacy.
 
-### 20. [RVRT](https://github.com/JingyunLiang/RVRT) [![GitHub stars](https://img.shields.io/github/stars/JingyunLiang/RVRT?style=social&color=white)](https://github.com/JingyunLiang/RVRT/stargazers)
+### 20. [RVRT](https://github.com/JingyunLiang/RVRT) [![GitHub_Stars](https://img.shields.io/github/stars/JingyunLiang/RVRT?style=social&color=white)](https://github.com/JingyunLiang/RVRT/stargazers)
 - **License**: `Apache-2.0` | **Focus**: Recurrent Video Restoration Transformer
 - **Overview**: Designed to minimize the massive VRAM footprint of full-attention video transformers. Employs guided deformable attention within recurrent blocks to achieve state-of-the-art video deblurring and super-resolution with realistic GPU memory usage.
 
-### 21. [LTX2-ICEdit-Insight](https://github.com/joyfoxai/LTX2-ICEdit-Insight) [![GitHub stars](https://img.shields.io/github/stars/joyfoxai/LTX2-ICEdit-Insight?style=social&color=white)](https://github.com/joyfoxai/LTX2-ICEdit-Insight/stargazers)
+### 21. [LTX2-ICEdit-Insight](https://github.com/joyfoxai/LTX2-ICEdit-Insight) [![GitHub_Stars](https://img.shields.io/github/stars/joyfoxai/LTX2-ICEdit-Insight?style=social&color=white)](https://github.com/joyfoxai/LTX2-ICEdit-Insight/stargazers)
 - **License**: `Apache-2.0` | **Focus**: DiT-Based Video Super-Resolution & Watermark/Subtitle Inpainting
 - **Overview**: Built on the LTX-2.3 audio-video foundation model. Operates in latent video space to perform degradation recovery, video super-resolution, and temporally stable watermark and subtitle removal without identity drift.
 
-### 22. [SwiftVR (Real-Time Video Restoration)](https://github.com/H-oliday/SwiftVR) [![GitHub stars](https://img.shields.io/github/stars/H-oliday/SwiftVR?style=social&color=white)](https://github.com/H-oliday/SwiftVR/stargazers)
+### 22. [SwiftVR (Real-Time Video Restoration)](https://github.com/H-oliday/SwiftVR) [![GitHub_Stars](https://img.shields.io/github/stars/H-oliday/SwiftVR?style=social&color=white)](https://github.com/H-oliday/SwiftVR/stargazers)
 - **License**: `Apache-2.0` | **Focus**: Real-Time Generative Streaming Video Restoration
 - **Overview**: The first generative video restoration framework to achieve real-time 1080p streaming on consumer GPUs (~26 FPS on RTX 5090). Features mask-free shifted-window attention, Restoration-aware Autoencoder (ReAE), and causal chunk-wise streaming on the Wan2.2 backbone.
 
-### 23. [iNNfer](https://github.com/victorca25/iNNfer) [![GitHub stars](https://img.shields.io/github/stars/victorca25/iNNfer?style=social&color=white)](https://github.com/victorca25/iNNfer/stargazers)
+### 23. [iNNfer](https://github.com/victorca25/iNNfer) [![GitHub_Stars](https://img.shields.io/github/stars/victorca25/iNNfer?style=social&color=white)](https://github.com/victorca25/iNNfer/stargazers)
 - **License**: `GPL-3.0` | **Focus**: Neural Network Inference CLI for Video & Image Restoration
 - **Overview**: Lightweight Python CLI tool tailored for batch frame inference. Supports modern ESRGAN, Real-ESRGAN, and NAFNet models with FP16 precision, tiled VRAM caching, and automatic FFmpeg streaming pipes.
 
-### 24. [vs-rvrt](https://github.com/Lyra-Vhess/vs-rvrt) [![GitHub stars](https://img.shields.io/github/stars/Lyra-Vhess/vs-rvrt?style=social&color=white)](https://github.com/Lyra-Vhess/vs-rvrt/stargazers)
+### 24. [vs-rvrt](https://github.com/Lyra-Vhess/vs-rvrt) [![GitHub_Stars](https://img.shields.io/github/stars/Lyra-Vhess/vs-rvrt?style=social&color=white)](https://github.com/Lyra-Vhess/vs-rvrt/stargazers)
 - **License**: `MIT` | **Focus**: VapourSynth Plugin for Recurrent Video Restoration Transformer
 - **Overview**: Native VapourSynth filter implementation of RVRT. Enables non-linear editing scripts to perform high-grade video deblurring, denoising, and 4x super-resolution directly within standardized encoding pipelines.
 
-### 25. [video-super-resolution](https://github.com/Alhamwis/video-super-resolution) [![GitHub stars](https://img.shields.io/github/stars/Alhamwis/video-super-resolution?style=social&color=white)](https://github.com/Alhamwis/video-super-resolution/stargazers)
+### 25. [video-super-resolution](https://github.com/Alhamwis/video-super-resolution) [![GitHub_Stars](https://img.shields.io/github/stars/Alhamwis/video-super-resolution?style=social&color=white)](https://github.com/Alhamwis/video-super-resolution/stargazers)
 - **License**: `MIT` | **Focus**: Comparative PyTorch Super-Resolution Sandbox
 - **Overview**: Educational and benchmark implementation showcasing comparative side-by-side performance between SRCNN, ESRGAN, and Real-ESRGAN on video clips.
 
@@ -220,8 +220,8 @@ Contributions from developers, researchers, and creators are warmly welcomed!
 1. **Fork** the repository: `git checkout -b feature/add-new-model`
 2. **Add / Edit** entries in `README.md`:
    - For SaaS tools: include verified pricing tier, exact free trial/forever-free limits, and company metrics.
-   - For open-source tools: include the repository link, star badge `[![GitHub stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)`, license, and a concise technical summary.
-3. Keep the open-source list sorted descending by star count.
+   - For open-source tools: include the repository link, Stars_Badge `[![GitHub_Stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)`, license, and a concise technical summary.
+3. Keep the open-source list sorted descending by Stars_Count.
 4. **Submit a Pull Request** with a descriptive summary of your changes.
 
 ---
